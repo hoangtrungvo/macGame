@@ -43,7 +43,8 @@ export default function GamePage() {
 
     // Initialize socket connection
     const initSocket = async () => {
-      socket = io({
+      const socketUrl = process.env.NEXT_PUBLIC_SOCKET_URL || '';
+      socket = io(socketUrl, {
         path: '/api/socket',
       });
 
