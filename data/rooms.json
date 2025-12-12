@@ -1,0 +1,525 @@
+[
+  {
+    "id": "room-1765529981383-n44rrx5bg",
+    "name": "Team1",
+    "players": [
+      {
+        "id": "player-1765529991089-aeiz1h2ib",
+        "name": "Khế",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765529991090-13nvcy6ju",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Đạo Hòa Hảo tu theo hình thức nào?",
+            "correctAnswer": "Tu tại gia",
+            "options": [
+              "Xuất gia",
+              "Tu tại gia",
+              "Vào chùa",
+              "Ẩn cư"
+            ]
+          },
+          {
+            "id": "card-1765529991090-6xkzqvxsi",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Lễ Vu Lan là ngày mấy âm lịch?",
+            "correctAnswer": "15/7",
+            "options": [
+              "15/4",
+              "15/7",
+              "1/1",
+              "30/12"
+            ]
+          },
+          {
+            "id": "card-1765529991091-jv2eklzqp",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Hồi giáo ở Việt Nam tập trung chủ yếu ở đâu?",
+            "correctAnswer": "Các tỉnh Đồng bằng sông Cửu Long và Bình Thuận Ninh Thuận",
+            "options": [
+              "Hà Nội",
+              "Các tỉnh Đồng bằng sông Cửu Long và Bình Thuận Ninh Thuận",
+              "Miền Trung",
+              "Tây Nguyên"
+            ]
+          },
+          {
+            "id": "card-1765529991091-lu8xmkp4h",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Giáo hội Tin Lành Việt Nam (Miền Bắc) thành lập năm nào?",
+            "correctAnswer": "1963",
+            "options": [
+              "1950",
+              "1963",
+              "1975",
+              "1980"
+            ]
+          },
+          {
+            "id": "card-1765529991092-7mqxw143h",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Mác nói tôn giáo là thuốc phiện của nhân dân có nghĩa gì?",
+            "correctAnswer": "Tôn giáo làm con người quên đi khổ đau hiện tại",
+            "options": [
+              "Tôn giáo là ma túy",
+              "Tôn giáo làm con người quên đi khổ đau hiện tại",
+              "Tôn giáo độc hại",
+              "Tôn giáo gây nghiện"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": false
+      },
+      {
+        "id": "player-1765529997961-tmw0okk4v",
+        "name": "Trài",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765529997961-po8cvbtec",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Mác cho rằng tôn giáo tồn tại do nguyên nhân gì?",
+            "correctAnswer": "Nguyên nhân xã hội và nhận thức",
+            "options": [
+              "Do thần linh",
+              "Nguyên nhân xã hội và nhận thức",
+              "Do di truyền",
+              "Do bản năng"
+            ]
+          },
+          {
+            "id": "card-1765529997962-20zuqtorf",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Luật Tín ngưỡng Tôn giáo được Quốc hội thông qua năm nào?",
+            "correctAnswer": "2016",
+            "options": [
+              "2010",
+              "2013",
+              "2016",
+              "2020"
+            ]
+          },
+          {
+            "id": "card-1765529997963-p6cszri4v",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Tin Lành truyền vào Việt Nam từ thế kỷ nào?",
+            "correctAnswer": "Thế kỷ XIX",
+            "options": [
+              "Thế kỷ XVI",
+              "Thế kỷ XVII",
+              "Thế kỷ XIX",
+              "Thế kỷ XX"
+            ]
+          },
+          {
+            "id": "card-1765529997963-gd11hvfsw",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Giáo hội Tin Lành Việt Nam (Miền Nam) thành lập năm nào?",
+            "correctAnswer": "1963",
+            "options": [
+              "1950",
+              "1963",
+              "1975",
+              "1980"
+            ]
+          },
+          {
+            "id": "card-1765529997964-jn94du0x4",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Ai là Tổng Giám mục đầu tiên người Việt Nam?",
+            "correctAnswer": "Ngô Đình Thục",
+            "options": [
+              "Phaolô Nguyễn Bá Tòng",
+              "Ngô Đình Thục",
+              "Nguyễn Văn Thuận",
+              "Phạm Đình Tụng"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": false
+      }
+    ],
+    "maxPlayers": 2,
+    "status": "in-progress",
+    "gameState": {
+      "id": "game-1765529997964-bpjz50b9j",
+      "roomId": "room-1765529981383-n44rrx5bg",
+      "players": [
+        {
+          "id": "player-1765529991089-aeiz1h2ib",
+          "name": "Khế",
+          "team": "red",
+          "health": 70,
+          "maxHealth": 100,
+          "cards": [
+            {
+              "id": "card-1765529991090-13nvcy6ju",
+              "type": "heal",
+              "name": "Hồi Máu",
+              "value": 15,
+              "description": "Hồi 15 HP",
+              "color": "bg-green-500",
+              "icon": "💚",
+              "question": "Đạo Hòa Hảo tu theo hình thức nào?",
+              "correctAnswer": "Tu tại gia",
+              "options": [
+                "Xuất gia",
+                "Tu tại gia",
+                "Vào chùa",
+                "Ẩn cư"
+              ]
+            },
+            {
+              "id": "card-1765529991091-lu8xmkp4h",
+              "type": "detox",
+              "name": "Giải Độc",
+              "value": 18,
+              "description": "Giải độc và hồi 18 HP",
+              "color": "bg-cyan-500",
+              "icon": "💧",
+              "question": "Giáo hội Tin Lành Việt Nam (Miền Bắc) thành lập năm nào?",
+              "correctAnswer": "1963",
+              "options": [
+                "1950",
+                "1963",
+                "1975",
+                "1980"
+              ]
+            },
+            {
+              "id": "card-1765529991092-7mqxw143h",
+              "type": "heal",
+              "name": "Hồi Máu",
+              "value": 15,
+              "description": "Hồi 15 HP",
+              "color": "bg-green-500",
+              "icon": "💚",
+              "question": "Mác nói tôn giáo là thuốc phiện của nhân dân có nghĩa gì?",
+              "correctAnswer": "Tôn giáo làm con người quên đi khổ đau hiện tại",
+              "options": [
+                "Tôn giáo là ma túy",
+                "Tôn giáo làm con người quên đi khổ đau hiện tại",
+                "Tôn giáo độc hại",
+                "Tôn giáo gây nghiện"
+              ]
+            },
+            {
+              "id": "card-1765530253753-0c99oiynt",
+              "type": "thunder",
+              "name": "Siêu Phép",
+              "value": -25,
+              "description": "Gây 25 sát thương",
+              "color": "bg-purple-500",
+              "icon": "⚡",
+              "question": "Đại hội Phật giáo toàn quốc lần thứ nhất họp năm nào?",
+              "correctAnswer": "1981",
+              "options": [
+                "1945",
+                "1975",
+                "1981",
+                "1990"
+              ]
+            }
+          ],
+          "score": 0,
+          "ready": true
+        },
+        {
+          "id": "player-1765529997961-tmw0okk4v",
+          "name": "Trài",
+          "team": "blue",
+          "health": 70,
+          "maxHealth": 100,
+          "cards": [
+            {
+              "id": "card-1765529997961-po8cvbtec",
+              "type": "defense",
+              "name": "Phòng Thủ",
+              "value": 10,
+              "description": "Tăng 10 HP",
+              "color": "bg-blue-500",
+              "icon": "🛡️",
+              "question": "Mác cho rằng tôn giáo tồn tại do nguyên nhân gì?",
+              "correctAnswer": "Nguyên nhân xã hội và nhận thức",
+              "options": [
+                "Do thần linh",
+                "Nguyên nhân xã hội và nhận thức",
+                "Do di truyền",
+                "Do bản năng"
+              ]
+            },
+            {
+              "id": "card-1765529997962-20zuqtorf",
+              "type": "defense",
+              "name": "Phòng Thủ",
+              "value": 10,
+              "description": "Tăng 10 HP",
+              "color": "bg-blue-500",
+              "icon": "🛡️",
+              "question": "Luật Tín ngưỡng Tôn giáo được Quốc hội thông qua năm nào?",
+              "correctAnswer": "2016",
+              "options": [
+                "2010",
+                "2013",
+                "2016",
+                "2020"
+              ]
+            },
+            {
+              "id": "card-1765529997963-gd11hvfsw",
+              "type": "detox",
+              "name": "Giải Độc",
+              "value": 18,
+              "description": "Giải độc và hồi 18 HP",
+              "color": "bg-cyan-500",
+              "icon": "💧",
+              "question": "Giáo hội Tin Lành Việt Nam (Miền Nam) thành lập năm nào?",
+              "correctAnswer": "1963",
+              "options": [
+                "1950",
+                "1963",
+                "1975",
+                "1980"
+              ]
+            },
+            {
+              "id": "card-1765530105309-g2u9dpp8f",
+              "type": "detox",
+              "name": "Giải Độc",
+              "value": 18,
+              "description": "Giải độc và hồi 18 HP",
+              "color": "bg-cyan-500",
+              "icon": "💧",
+              "question": "Tôn giáo nào có số tín đồ đông nhất Việt Nam?",
+              "correctAnswer": "Phật giáo",
+              "options": [
+                "Công giáo",
+                "Phật giáo",
+                "Tin Lành",
+                "Cao Đài"
+              ]
+            }
+          ],
+          "score": 0,
+          "ready": true
+        }
+      ],
+      "currentTurn": "red",
+      "turnNumber": 11,
+      "status": "active",
+      "winner": null,
+      "startTime": 1765530007214,
+      "endTime": null,
+      "history": [
+        {
+          "playerId": "player-1765529991089-aeiz1h2ib",
+          "playerName": "Khế",
+          "team": "red",
+          "action": "play-card",
+          "card": {
+            "id": "card-1765529991091-jv2eklzqp",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Hồi giáo ở Việt Nam tập trung chủ yếu ở đâu?",
+            "correctAnswer": "Các tỉnh Đồng bằng sông Cửu Long và Bình Thuận Ninh Thuận",
+            "options": [
+              "Hà Nội",
+              "Các tỉnh Đồng bằng sông Cửu Long và Bình Thuận Ninh Thuận",
+              "Miền Trung",
+              "Tây Nguyên"
+            ]
+          },
+          "timestamp": 1765530036005,
+          "effect": "Siêu Phép: -25 HP (100 → 75)"
+        },
+        {
+          "playerId": "player-1765529997961-tmw0okk4v",
+          "playerName": "Trài",
+          "team": "blue",
+          "action": "play-card",
+          "card": {
+            "id": "card-1765529997964-jn94du0x4",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Ai là Tổng Giám mục đầu tiên người Việt Nam?",
+            "correctAnswer": "Ngô Đình Thục",
+            "options": [
+              "Phaolô Nguyễn Bá Tòng",
+              "Ngô Đình Thục",
+              "Nguyễn Văn Thuận",
+              "Phạm Đình Tụng"
+            ]
+          },
+          "timestamp": 1765530051361,
+          "effect": "Hồi Máu: +15 HP (75 → 90)"
+        },
+        {
+          "playerId": "player-1765529997961-tmw0okk4v",
+          "playerName": "Trài",
+          "team": "blue",
+          "action": "play-card",
+          "card": {
+            "id": "card-1765529997963-p6cszri4v",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Tin Lành truyền vào Việt Nam từ thế kỷ nào?",
+            "correctAnswer": "Thế kỷ XIX",
+            "options": [
+              "Thế kỷ XVI",
+              "Thế kỷ XVII",
+              "Thế kỷ XIX",
+              "Thế kỷ XX"
+            ]
+          },
+          "timestamp": 1765530079393,
+          "effect": "Siêu Phép: -25 HP (100 → 75)"
+        },
+        {
+          "playerId": "player-1765529991089-aeiz1h2ib",
+          "playerName": "Khế",
+          "team": "red",
+          "action": "play-card",
+          "card": {
+            "id": "card-1765529991090-6xkzqvxsi",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Lễ Vu Lan là ngày mấy âm lịch?",
+            "correctAnswer": "15/7",
+            "options": [
+              "15/4",
+              "15/7",
+              "1/1",
+              "30/12"
+            ]
+          },
+          "timestamp": 1765530098049,
+          "effect": "Hồi Máu: +15 HP (75 → 90)"
+        },
+        {
+          "playerId": "player-1765529991089-aeiz1h2ib",
+          "playerName": "Khế",
+          "team": "red",
+          "action": "play-card",
+          "card": {
+            "id": "card-1765530067259-46w3kq3eg",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Đặc điểm nào nổi bật của tôn giáo Việt Nam?",
+            "correctAnswer": "Gắn liền với dân tộc và lịch sử dân tộc",
+            "options": [
+              "Hoàn toàn ngoại lai",
+              "Gắn liền với dân tộc và lịch sử dân tộc",
+              "Không liên quan văn hóa",
+              "Chỉ ở thành thị"
+            ]
+          },
+          "timestamp": 1765530113768,
+          "effect": "Chém Mạnh: -20 HP (90 → 70)"
+        },
+        {
+          "playerId": "player-1765529997961-tmw0okk4v",
+          "playerName": "Trài",
+          "team": "blue",
+          "action": "play-card",
+          "card": {
+            "id": "card-1765530242869-82q5gy7ev",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Ăng-ghen chỉ ra điều gì về tôn giáo trong tương lai?",
+            "correctAnswer": "Sẽ tự biến mất khi xã hội phát triển",
+            "options": [
+              "Tồn tại mãi mãi",
+              "Sẽ tự biến mất khi xã hội phát triển",
+              "Phải cấm ngay",
+              "Không thể biến mất"
+            ]
+          },
+          "timestamp": 1765530268515,
+          "effect": "Chém Mạnh: -20 HP (90 → 70)"
+        }
+      ]
+    },
+    "createdAt": 1765529981383
+  }
+]

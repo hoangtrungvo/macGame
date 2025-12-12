@@ -1,0 +1,3744 @@
+[
+  {
+    "id": "game-1765519179920-vwx67zr77",
+    "roomId": "room-1765518926350-xhd6me3nc",
+    "players": [
+      {
+        "id": "player-1765519168181-kwa15edg7",
+        "name": "Hoàng Đế",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765519168181-46ov9224d",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          },
+          {
+            "id": "card-1765519168181-vld0bl04z",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          },
+          {
+            "id": "card-1765519168181-fdfv5nq1u",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765519168181-tmt9skga0",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765519168181-yh3ulw8u1",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      },
+      {
+        "id": "player-1765519179920-r39vqfqb2",
+        "name": "Thái Phi",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765519179920-8tpnqn9nk",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          },
+          {
+            "id": "card-1765519179920-7u4b6dc14",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          },
+          {
+            "id": "card-1765519179920-eebg738gq",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765519179920-nufq5yvps",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765519179920-bk7o8ufwz",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 1,
+    "status": "waiting",
+    "winner": null,
+    "startTime": null,
+    "endTime": null,
+    "history": []
+  },
+  {
+    "id": "game-1765519394555-e0o9wxjll",
+    "roomId": "room-1765519022665-zewif9xcx",
+    "players": [
+      {
+        "id": "player-1765519391799-ajmboavrh",
+        "name": "Hag",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765519391800-7b9wszu1t",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765519391800-mo6jbpdp9",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          },
+          {
+            "id": "card-1765519391800-anx7afp8q",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765519391800-qc8sr6jik",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765519391800-blc0gnwrr",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      },
+      {
+        "id": "player-1765519394555-1sl64qpgm",
+        "name": "Sdsd",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765519394555-9pz8armq1",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          },
+          {
+            "id": "card-1765519394555-a9vrs46qa",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765519394555-5e8406cp2",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          },
+          {
+            "id": "card-1765519394555-z8tlx6mnl",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          },
+          {
+            "id": "card-1765519394555-jruw95oc2",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 1,
+    "status": "waiting",
+    "winner": null,
+    "startTime": null,
+    "endTime": null,
+    "history": []
+  },
+  {
+    "id": "game-1765519511484-co7n6w7kr",
+    "roomId": "room-1765519475739-oya4ptglp",
+    "players": [
+      {
+        "id": "player-1765519507911-bbefpwcgw",
+        "name": "Team 1",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765519507911-az0ic46sw",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765519507911-o87aq2l89",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          },
+          {
+            "id": "card-1765519507911-jdyqvav6x",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765519507911-lfisjdwtc",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          },
+          {
+            "id": "card-1765519507911-u6ssyn21p",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      },
+      {
+        "id": "player-1765519511484-ek03slh69",
+        "name": "Team 2",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765519511484-skloevn7t",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          },
+          {
+            "id": "card-1765519511484-z9ft9kv9h",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          },
+          {
+            "id": "card-1765519511484-i8w6ogag6",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765519511484-v8l8eobiu",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765519511484-01gx6ngap",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 1,
+    "status": "waiting",
+    "winner": null,
+    "startTime": null,
+    "endTime": null,
+    "history": []
+  },
+  {
+    "id": "game-1765519597544-lgm0kwtbg",
+    "roomId": "room-1765519041717-boqubii1o",
+    "players": [
+      {
+        "id": "player-1765519594918-epwzkoq0p",
+        "name": "Tean 1",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765519594918-b7klzdpe4",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765519594918-uepak5lat",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765519594918-tf25snd24",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765519594918-g4gkirjry",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765519594918-v7s4ethok",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      },
+      {
+        "id": "player-1765519597544-olxm2k6dl",
+        "name": "Tean2",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765519597544-j2gi0moxw",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765519597544-ufur9ghu2",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          },
+          {
+            "id": "card-1765519597544-ucyfuwcfw",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          },
+          {
+            "id": "card-1765519597544-12u2umi3p",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765519597544-ut0w1ahdk",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 1,
+    "status": "waiting",
+    "winner": null,
+    "startTime": null,
+    "endTime": null,
+    "history": []
+  },
+  {
+    "id": "game-1765520552604-030nwjhpr",
+    "roomId": "room-1765519046146-ozj48cr1b",
+    "players": [
+      {
+        "id": "player-1765520548029-47o1yz2m4",
+        "name": "Tean",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765520548029-klf06u60x",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765520548029-qsfzupaoj",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          },
+          {
+            "id": "card-1765520548029-k7zzbxx4l",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765520548029-8tw07umou",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765520548029-rcd9kyvz4",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      },
+      {
+        "id": "player-1765520552604-7tujozs1e",
+        "name": "Tean",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765520552604-2lczpntgi",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765520552604-5ttif8hy5",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765520552604-itqj9j5br",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          },
+          {
+            "id": "card-1765520552604-eao6vd527",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765520552604-poipt5f75",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 1,
+    "status": "waiting",
+    "winner": null,
+    "startTime": null,
+    "endTime": null,
+    "history": []
+  },
+  {
+    "id": "game-1765520583054-p6wi4hbr5",
+    "roomId": "room-1765520572755-6rfnjgaey",
+    "players": [
+      {
+        "id": "player-1765520579097-cnz7edc5t",
+        "name": "sdd",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765520579097-9b17x57l7",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          },
+          {
+            "id": "card-1765520579097-vlniopmrl",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765520579097-xpvlvnwc2",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765520579097-pybqpy50j",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765520579097-uoakt8q9n",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      },
+      {
+        "id": "player-1765520583054-h48j3d2or",
+        "name": "ffsd",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765520583054-wnyug3un3",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765520583054-83xokjm57",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          },
+          {
+            "id": "card-1765520583054-a2t5kla15",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          },
+          {
+            "id": "card-1765520583054-em18yvgog",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765520583054-xrovqx7eg",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 1,
+    "status": "waiting",
+    "winner": null,
+    "startTime": null,
+    "endTime": null,
+    "history": []
+  },
+  {
+    "id": "game-1765520752178-v6qioe3un",
+    "roomId": "room-1765520706091-zccarffo3",
+    "players": [
+      {
+        "id": "player-1765520746504-kjm7w1l55",
+        "name": "tr",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765520746504-cpt74quad",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765520746504-mluisxl6s",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765520746504-1hagbbqc6",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765520746504-l9m5a7k3k",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          },
+          {
+            "id": "card-1765520746504-xl1km83lp",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      },
+      {
+        "id": "player-1765520752178-72iz3gsou",
+        "name": "tr",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765520752178-rsa6i1pgj",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          },
+          {
+            "id": "card-1765520752178-f5w44i9gv",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          },
+          {
+            "id": "card-1765520752178-6e7h7n8g8",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765520752178-jpy0vmncz",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765520752178-yro0z5ndd",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 1,
+    "status": "waiting",
+    "winner": null,
+    "startTime": null,
+    "endTime": null,
+    "history": []
+  },
+  {
+    "id": "game-1765521037625-2pjhqzov0",
+    "roomId": "room-1765520765132-x7g9zcagc",
+    "players": [
+      {
+        "id": "player-1765521024149-ml3f8k8e4",
+        "name": "trrc",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765521024149-j0xq46uug",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765521024149-g6j13w3b8",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          },
+          {
+            "id": "card-1765521024149-ih7bjmfrv",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765521024149-dpo29hmcj",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765521024149-fbze90xvq",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      },
+      {
+        "id": "player-1765521037625-swf5y5pn2",
+        "name": "trrc",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765521037625-s21a41zim",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765521037625-74nwjl9a0",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765521037625-hzg8h8cza",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765521037625-95guq1gx1",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765521037625-76uxvzpk5",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 1,
+    "status": "waiting",
+    "winner": null,
+    "startTime": null,
+    "endTime": null,
+    "history": []
+  },
+  {
+    "id": "game-1765521132638-kwptyyd8y",
+    "roomId": "room-1765521119186-76rc2lhnp",
+    "players": [
+      {
+        "id": "player-1765521125262-8fbztec55",
+        "name": "dd",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765521125262-vgctq7i1b",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          },
+          {
+            "id": "card-1765521125262-ebhc782vz",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765521125262-s2tey1z2y",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765521125262-1b2bdoui8",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765521125262-xrynozr9f",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      },
+      {
+        "id": "player-1765521132637-a4lkohtj2",
+        "name": "fff",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765521132637-xi762xubu",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765521132637-33w5y97wq",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          },
+          {
+            "id": "card-1765521132637-8ajfdi0ji",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧"
+          },
+          {
+            "id": "card-1765521132637-r4fyai4uo",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765521132637-cmdjqqcqb",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 1,
+    "status": "waiting",
+    "winner": null,
+    "startTime": null,
+    "endTime": null,
+    "history": []
+  },
+  {
+    "id": "game-1765521378988-cbck1uf0z",
+    "roomId": "room-1765521325850-hf25nab32",
+    "players": [
+      {
+        "id": "player-1765521367767-lp06r8fxn",
+        "name": "tyr",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765521367767-cuwn1y414",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765521367767-v5uo8wl5j",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765521367767-g3aum12vf",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765521367767-9rxy7s3py",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765521367767-l33uax0f6",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      },
+      {
+        "id": "player-1765521378988-jacehhny8",
+        "name": "trd",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765521378988-fx5868180",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️"
+          },
+          {
+            "id": "card-1765521378988-1o246lojq",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          },
+          {
+            "id": "card-1765521378988-06j02fbts",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765521378988-zhdg8f0s8",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡"
+          },
+          {
+            "id": "card-1765521378988-sfhrbz7ls",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥"
+          }
+        ],
+        "score": 0,
+        "ready": false
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 1,
+    "status": "waiting",
+    "winner": null,
+    "startTime": null,
+    "endTime": null,
+    "history": []
+  },
+  {
+    "id": "game-1765522404161-2axiugxo7",
+    "roomId": "room-1765522381160-2uv1sw7bp",
+    "players": [
+      {
+        "id": "player-1765522391565-parq3898r",
+        "name": "Trung",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765522391565-8nbssjf22",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "15 + 25 = ?",
+            "correctAnswer": "40",
+            "options": [
+              "35",
+              "40",
+              "45",
+              "50"
+            ]
+          },
+          {
+            "id": "card-1765522391565-gki6y1b8u",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Rau củ nào giúp giải độc gan?",
+            "correctAnswer": "Rau diếp cá",
+            "options": [
+              "Rau diếp cá",
+              "Cải bắp",
+              "Rau muống",
+              "Rau dền"
+            ]
+          },
+          {
+            "id": "card-1765522391565-wkh8wp3vh",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Biển nào mặn nhất thế giới?",
+            "correctAnswer": "Biển Chết",
+            "options": [
+              "Biển Chết",
+              "Biển Đỏ",
+              "Biển Đen",
+              "Biển Đông"
+            ]
+          },
+          {
+            "id": "card-1765522391565-91efmm8y7",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Kim loại nào nặng nhất?",
+            "correctAnswer": "Vàng",
+            "options": [
+              "Vàng",
+              "Sắt",
+              "Đồng",
+              "Bạc"
+            ]
+          },
+          {
+            "id": "card-1765522391565-djanwvruy",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Nguyên tử số 1 là gì?",
+            "correctAnswer": "Hydro",
+            "options": [
+              "Hydro",
+              "Oxy",
+              "Nitơ",
+              "Carbon"
+            ]
+          },
+          {
+            "id": "card-1765522418714-yp1vge1q9",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Biển nào mặn nhất thế giới?",
+            "correctAnswer": "Biển Chết",
+            "options": [
+              "Biển Chết",
+              "Biển Đỏ",
+              "Biển Đen",
+              "Biển Đông"
+            ]
+          },
+          {
+            "id": "card-1765522467568-84dof13dd",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Động vật nào nhanh nhất thế giới?",
+            "correctAnswer": "Báo gêpa",
+            "options": [
+              "Báo gêpa",
+              "Sư tử",
+              "Ngựa",
+              "Chim ưng"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": false
+      },
+      {
+        "id": "player-1765522404161-ldxqxh2ka",
+        "name": "Gd",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765522404161-57m2mbrvv",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Màu của lá cây là gì?",
+            "correctAnswer": "Xanh",
+            "options": [
+              "Xanh",
+              "Đỏ",
+              "Vàng",
+              "Tím"
+            ]
+          },
+          {
+            "id": "card-1765522404161-874b8mszf",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Vitamin nào tốt cho mắt?",
+            "correctAnswer": "Vitamin A",
+            "options": [
+              "Vitamin A",
+              "Vitamin B",
+              "Vitamin C",
+              "Vitamin D"
+            ]
+          },
+          {
+            "id": "card-1765522404161-ya83fqexf",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Kim loại nào nặng nhất?",
+            "correctAnswer": "Vàng",
+            "options": [
+              "Vàng",
+              "Sắt",
+              "Đồng",
+              "Bạc"
+            ]
+          },
+          {
+            "id": "card-1765522404161-30cclly3h",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Núi cao nhất thế giới là?",
+            "correctAnswer": "Everest",
+            "options": [
+              "Everest",
+              "K2",
+              "Phú Sĩ",
+              "Fansipan"
+            ]
+          },
+          {
+            "id": "card-1765522404161-d3pdthzxa",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "100 / 5 = ?",
+            "correctAnswer": "20",
+            "options": [
+              "15",
+              "20",
+              "25",
+              "30"
+            ]
+          },
+          {
+            "id": "card-1765522442050-x7enm2c9k",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Năm 2025 trừ 1000 bằng bao nhiêu?",
+            "correctAnswer": "1025",
+            "options": [
+              "1025",
+              "1024",
+              "1026",
+              "1020"
+            ]
+          },
+          {
+            "id": "card-1765522533011-ylja635z5",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Nguyên tử số 1 là gì?",
+            "correctAnswer": "Hydro",
+            "options": [
+              "Hydro",
+              "Oxy",
+              "Nitơ",
+              "Carbon"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": false
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 5,
+    "status": "waiting",
+    "winner": null,
+    "startTime": null,
+    "endTime": null,
+    "history": []
+  },
+  {
+    "id": "game-1765522990130-3f5wjkog3",
+    "roomId": "room-1765522977703-1twbzcmze",
+    "players": [
+      {
+        "id": "player-1765522983673-tek276tli",
+        "name": "Tros",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765522983674-extxl8caq",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Núi cao nhất thế giới là?",
+            "correctAnswer": "Everest",
+            "options": [
+              "Everest",
+              "K2",
+              "Phú Sĩ",
+              "Fansipan"
+            ]
+          },
+          {
+            "id": "card-1765522983674-tnhvxuadt",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "2 + 2 = ?",
+            "correctAnswer": "4",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ]
+          },
+          {
+            "id": "card-1765522983674-pe1tpepv5",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Ai phát minh ra bóng đèn?",
+            "correctAnswer": "Edison",
+            "options": [
+              "Edison",
+              "Einstein",
+              "Newton",
+              "Tesla"
+            ]
+          },
+          {
+            "id": "card-1765522983674-dvf2dp5xb",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "15 + 25 = ?",
+            "correctAnswer": "40",
+            "options": [
+              "35",
+              "40",
+              "45",
+              "50"
+            ]
+          },
+          {
+            "id": "card-1765522983674-0cbxvo0x8",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "2 + 2 = ?",
+            "correctAnswer": "4",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": false
+      },
+      {
+        "id": "player-1765522990130-midbxkb5v",
+        "name": "lol",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765522990130-njijsw7hw",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Biển nào mặn nhất thế giới?",
+            "correctAnswer": "Biển Chết",
+            "options": [
+              "Biển Chết",
+              "Biển Đỏ",
+              "Biển Đen",
+              "Biển Đông"
+            ]
+          },
+          {
+            "id": "card-1765522990130-d0xkvg91q",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "2 + 2 = ?",
+            "correctAnswer": "4",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ]
+          },
+          {
+            "id": "card-1765522990130-gf2eqxmo4",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Năm 2025 trừ 1000 bằng bao nhiêu?",
+            "correctAnswer": "1025",
+            "options": [
+              "1025",
+              "1024",
+              "1026",
+              "1020"
+            ]
+          },
+          {
+            "id": "card-1765522990130-hm3o2xvk0",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "100 / 5 = ?",
+            "correctAnswer": "20",
+            "options": [
+              "15",
+              "20",
+              "25",
+              "30"
+            ]
+          },
+          {
+            "id": "card-1765522990130-fjssnf96l",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Biển nào mặn nhất thế giới?",
+            "correctAnswer": "Biển Chết",
+            "options": [
+              "Biển Chết",
+              "Biển Đỏ",
+              "Biển Đen",
+              "Biển Đông"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": false
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 1,
+    "status": "waiting",
+    "winner": null,
+    "startTime": null,
+    "endTime": null,
+    "history": []
+  },
+  {
+    "id": "game-1765523451833-il0auo1k5",
+    "roomId": "room-1765523431654-ca60jyj0a",
+    "players": [
+      {
+        "id": "player-1765523440629-vhl4ibz6j",
+        "name": "Team 1",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765523440629-xwsuyt7yi",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "15 + 25 = ?",
+            "correctAnswer": "40",
+            "options": [
+              "35",
+              "40",
+              "45",
+              "50"
+            ]
+          },
+          {
+            "id": "card-1765523440629-2hcivndbk",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Rau củ nào giúp giải độc gan?",
+            "correctAnswer": "Rau diếp cá",
+            "options": [
+              "Rau diếp cá",
+              "Cải bắp",
+              "Rau muống",
+              "Rau dền"
+            ]
+          },
+          {
+            "id": "card-1765523440629-dehbe1rwh",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Động vật nào nhanh nhất thế giới?",
+            "correctAnswer": "Báo gêpa",
+            "options": [
+              "Báo gêpa",
+              "Sư tử",
+              "Ngựa",
+              "Chim ưng"
+            ]
+          },
+          {
+            "id": "card-1765523440629-tn93m4vz4",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Thủ đô của Việt Nam là gì?",
+            "correctAnswer": "Hà Nội",
+            "options": [
+              "Hà Nội",
+              "Sài Gòn",
+              "Đà Nẵng",
+              "Huế"
+            ]
+          },
+          {
+            "id": "card-1765523440629-a9s8ucleb",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Màu của lá cây là gì?",
+            "correctAnswer": "Xanh",
+            "options": [
+              "Xanh",
+              "Đỏ",
+              "Vàng",
+              "Tím"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": false
+      },
+      {
+        "id": "player-1765523451833-4rgo6itbl",
+        "name": "Team 2",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765523451833-ctsfygjxq",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Màu của lá cây là gì?",
+            "correctAnswer": "Xanh",
+            "options": [
+              "Xanh",
+              "Đỏ",
+              "Vàng",
+              "Tím"
+            ]
+          },
+          {
+            "id": "card-1765523451833-x0n4hwlf6",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Màu của lá cây là gì?",
+            "correctAnswer": "Xanh",
+            "options": [
+              "Xanh",
+              "Đỏ",
+              "Vàng",
+              "Tím"
+            ]
+          },
+          {
+            "id": "card-1765523451833-3jq6tomh5",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Biển nào mặn nhất thế giới?",
+            "correctAnswer": "Biển Chết",
+            "options": [
+              "Biển Chết",
+              "Biển Đỏ",
+              "Biển Đen",
+              "Biển Đông"
+            ]
+          },
+          {
+            "id": "card-1765523451833-4rbs3unbp",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Rau củ nào giúp giải độc gan?",
+            "correctAnswer": "Rau diếp cá",
+            "options": [
+              "Rau diếp cá",
+              "Cải bắp",
+              "Rau muống",
+              "Rau dền"
+            ]
+          },
+          {
+            "id": "card-1765523451833-lo0lzgn4c",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Cơ quan nào bơm máu trong cơ thể?",
+            "correctAnswer": "Tim",
+            "options": [
+              "Tim",
+              "Phổi",
+              "Gan",
+              "Thận"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": false
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 1,
+    "status": "waiting",
+    "winner": null,
+    "startTime": null,
+    "endTime": null,
+    "history": []
+  },
+  {
+    "id": "game-1765523680669-0bz9tw2va",
+    "roomId": "room-1765523655608-xeih8v59o",
+    "players": [
+      {
+        "id": "player-1765523670420-9ecjzdnvu",
+        "name": "Ttr",
+        "team": "red",
+        "health": 95,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765523670420-cgt4esa07",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Nước sôi ở nhiệt độ bao nhiêu độ C?",
+            "correctAnswer": "100",
+            "options": [
+              "50",
+              "75",
+              "100",
+              "150"
+            ]
+          },
+          {
+            "id": "card-1765523670420-e442k240u",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Quả nào giàu vitamin C nhất?",
+            "correctAnswer": "Cam",
+            "options": [
+              "Cam",
+              "Táo",
+              "Chuối",
+              "Xoài"
+            ]
+          },
+          {
+            "id": "card-1765523754617-veiz291cr",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "2 + 2 = ?",
+            "correctAnswer": "4",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ]
+          },
+          {
+            "id": "card-1765523797987-mg50rl9dw",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Màu của lá cây là gì?",
+            "correctAnswer": "Xanh",
+            "options": [
+              "Xanh",
+              "Đỏ",
+              "Vàng",
+              "Tím"
+            ]
+          },
+          {
+            "id": "card-1765523821618-7d3wzfd8i",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Vitamin nào tốt cho mắt?",
+            "correctAnswer": "Vitamin A",
+            "options": [
+              "Vitamin A",
+              "Vitamin B",
+              "Vitamin C",
+              "Vitamin D"
+            ]
+          },
+          {
+            "id": "card-1765523826770-gx8yfun2f",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Thủ đô của Việt Nam là gì?",
+            "correctAnswer": "Hà Nội",
+            "options": [
+              "Hà Nội",
+              "Sài Gòn",
+              "Đà Nẵng",
+              "Huế"
+            ]
+          },
+          {
+            "id": "card-1765523844436-gagylste1",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Quả nào giàu vitamin C nhất?",
+            "correctAnswer": "Cam",
+            "options": [
+              "Cam",
+              "Táo",
+              "Chuối",
+              "Xoài"
+            ]
+          },
+          {
+            "id": "card-1765523854703-wwc3lbgte",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Cơ quan nào bơm máu trong cơ thể?",
+            "correctAnswer": "Tim",
+            "options": [
+              "Tim",
+              "Phổi",
+              "Gan",
+              "Thận"
+            ]
+          },
+          {
+            "id": "card-1765523870780-ogyabumo7",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Nước sôi ở nhiệt độ bao nhiêu độ C?",
+            "correctAnswer": "100",
+            "options": [
+              "50",
+              "75",
+              "100",
+              "150"
+            ]
+          },
+          {
+            "id": "card-1765523873046-bh0mgxtjx",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Năm 2025 trừ 1000 bằng bao nhiêu?",
+            "correctAnswer": "1025",
+            "options": [
+              "1025",
+              "1024",
+              "1026",
+              "1020"
+            ]
+          }
+        ],
+        "score": 240,
+        "ready": true
+      },
+      {
+        "id": "player-1765523680669-70h8vvjgp",
+        "name": "ddd",
+        "team": "blue",
+        "health": 0,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765523680669-g7gia10ga",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Rau củ nào giúp giải độc gan?",
+            "correctAnswer": "Rau diếp cá",
+            "options": [
+              "Rau diếp cá",
+              "Cải bắp",
+              "Rau muống",
+              "Rau dền"
+            ]
+          },
+          {
+            "id": "card-1765523680669-6txahazyp",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Thủ đô của Việt Nam là gì?",
+            "correctAnswer": "Hà Nội",
+            "options": [
+              "Hà Nội",
+              "Sài Gòn",
+              "Đà Nẵng",
+              "Huế"
+            ]
+          },
+          {
+            "id": "card-1765523680669-c3p2qnlbd",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "10 x 10 = ?",
+            "correctAnswer": "100",
+            "options": [
+              "10",
+              "100",
+              "1000",
+              "50"
+            ]
+          },
+          {
+            "id": "card-1765523751437-8wz6vlx64",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "5 x 7 = ?",
+            "correctAnswer": "35",
+            "options": [
+              "30",
+              "35",
+              "40",
+              "45"
+            ]
+          },
+          {
+            "id": "card-1765523795526-opu5qyosu",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Biển Đông thuộc châu lục nào?",
+            "correctAnswer": "Châu Á",
+            "options": [
+              "Châu Á",
+              "Châu Âu",
+              "Châu Phi",
+              "Châu Mỹ"
+            ]
+          },
+          {
+            "id": "card-1765523800309-aeeny5ond",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Vận tốc ánh sáng là bao nhiêu km/s?",
+            "correctAnswer": "300000",
+            "options": [
+              "100000",
+              "200000",
+              "300000",
+              "400000"
+            ]
+          },
+          {
+            "id": "card-1765523806096-bhcp5gw2z",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Động vật nào nhanh nhất thế giới?",
+            "correctAnswer": "Báo gêpa",
+            "options": [
+              "Báo gêpa",
+              "Sư tử",
+              "Ngựa",
+              "Chim ưng"
+            ]
+          },
+          {
+            "id": "card-1765523819845-do63u64a0",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Kim loại nào nặng nhất?",
+            "correctAnswer": "Vàng",
+            "options": [
+              "Vàng",
+              "Sắt",
+              "Đồng",
+              "Bạc"
+            ]
+          },
+          {
+            "id": "card-1765523823506-1ihaku5pa",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "5 x 7 = ?",
+            "correctAnswer": "35",
+            "options": [
+              "30",
+              "35",
+              "40",
+              "45"
+            ]
+          },
+          {
+            "id": "card-1765523829613-y1611hshh",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Thủ đô của Việt Nam là gì?",
+            "correctAnswer": "Hà Nội",
+            "options": [
+              "Hà Nội",
+              "Sài Gòn",
+              "Đà Nẵng",
+              "Huế"
+            ]
+          },
+          {
+            "id": "card-1765523833837-j9d0rhoan",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Màu của lá cây là gì?",
+            "correctAnswer": "Xanh",
+            "options": [
+              "Xanh",
+              "Đỏ",
+              "Vàng",
+              "Tím"
+            ]
+          },
+          {
+            "id": "card-1765523842848-hsaozon84",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Con vật nào sống được lâu nhất?",
+            "correctAnswer": "Rùa",
+            "options": [
+              "Rùa",
+              "Voi",
+              "Mèo",
+              "Chó"
+            ]
+          },
+          {
+            "id": "card-1765523846537-3twff6uqa",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Nguyên tử số 1 là gì?",
+            "correctAnswer": "Hydro",
+            "options": [
+              "Hydro",
+              "Oxy",
+              "Nitơ",
+              "Carbon"
+            ]
+          },
+          {
+            "id": "card-1765523849684-bi3s2swbv",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Biển nào mặn nhất thế giới?",
+            "correctAnswer": "Biển Chết",
+            "options": [
+              "Biển Chết",
+              "Biển Đỏ",
+              "Biển Đen",
+              "Biển Đông"
+            ]
+          },
+          {
+            "id": "card-1765523855993-2dbtg0my0",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Ai phát minh ra bóng đèn?",
+            "correctAnswer": "Edison",
+            "options": [
+              "Edison",
+              "Einstein",
+              "Newton",
+              "Tesla"
+            ]
+          },
+          {
+            "id": "card-1765523869093-msyadj30m",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Biển nào mặn nhất thế giới?",
+            "correctAnswer": "Biển Chết",
+            "options": [
+              "Biển Chết",
+              "Biển Đỏ",
+              "Biển Đen",
+              "Biển Đông"
+            ]
+          },
+          {
+            "id": "card-1765523872475-9v2slpzf0",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "5 x 7 = ?",
+            "correctAnswer": "35",
+            "options": [
+              "30",
+              "35",
+              "40",
+              "45"
+            ]
+          },
+          {
+            "id": "card-1765523875059-s951dk1ts",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Quả nào giàu vitamin C nhất?",
+            "correctAnswer": "Cam",
+            "options": [
+              "Cam",
+              "Táo",
+              "Chuối",
+              "Xoài"
+            ]
+          },
+          {
+            "id": "card-1765523877574-vehxojvy2",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Ai phát minh ra bóng đèn?",
+            "correctAnswer": "Edison",
+            "options": [
+              "Edison",
+              "Einstein",
+              "Newton",
+              "Tesla"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": true
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 37,
+    "status": "finished",
+    "winner": "red",
+    "startTime": 1765523686159,
+    "endTime": 1765523880042,
+    "history": [
+      {
+        "playerId": "player-1765523670420-9ecjzdnvu",
+        "playerName": "Ttr",
+        "team": "red",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765523670420-pm9od9ods",
+          "type": "detox",
+          "name": "Giải Độc",
+          "value": 18,
+          "description": "Giải độc và hồi 18 HP",
+          "color": "bg-cyan-500",
+          "icon": "💧",
+          "question": "15 + 25 = ?",
+          "correctAnswer": "40",
+          "options": [
+            "35",
+            "40",
+            "45",
+            "50"
+          ]
+        },
+        "timestamp": 1765523701830,
+        "effect": "Giải Độc: +18 HP (100 → 100)"
+      },
+      {
+        "playerId": "player-1765523680669-70h8vvjgp",
+        "playerName": "ddd",
+        "team": "blue",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765523680669-i27tnwpij",
+          "type": "attack",
+          "name": "Chém Mạnh",
+          "value": -20,
+          "description": "Gây 20 sát thương",
+          "color": "bg-orange-500",
+          "icon": "🔥",
+          "question": "Kim loại nào nặng nhất?",
+          "correctAnswer": "Vàng",
+          "options": [
+            "Vàng",
+            "Sắt",
+            "Đồng",
+            "Bạc"
+          ]
+        },
+        "timestamp": 1765523723237,
+        "effect": "Chém Mạnh: -20 HP (100 → 80)"
+      },
+      {
+        "playerId": "player-1765523670420-9ecjzdnvu",
+        "playerName": "Ttr",
+        "team": "red",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765523670420-vk0o0ojnf",
+          "type": "heal",
+          "name": "Hồi Máu",
+          "value": 15,
+          "description": "Hồi 15 HP",
+          "color": "bg-green-500",
+          "icon": "💚",
+          "question": "Quả nào giàu vitamin C nhất?",
+          "correctAnswer": "Cam",
+          "options": [
+            "Cam",
+            "Táo",
+            "Chuối",
+            "Xoài"
+          ]
+        },
+        "timestamp": 1765523734061,
+        "effect": "Hồi Máu: +15 HP (80 → 95)"
+      },
+      {
+        "playerId": "player-1765523680669-70h8vvjgp",
+        "playerName": "ddd",
+        "team": "blue",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765523680669-oivychv7f",
+          "type": "heal",
+          "name": "Hồi Máu",
+          "value": 15,
+          "description": "Hồi 15 HP",
+          "color": "bg-green-500",
+          "icon": "💚",
+          "question": "Cơ quan nào bơm máu trong cơ thể?",
+          "correctAnswer": "Tim",
+          "options": [
+            "Tim",
+            "Phổi",
+            "Gan",
+            "Thận"
+          ]
+        },
+        "timestamp": 1765523772788,
+        "effect": "Hồi Máu: +15 HP (100 → 100)"
+      },
+      {
+        "playerId": "player-1765523670420-9ecjzdnvu",
+        "playerName": "Ttr",
+        "team": "red",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765523670420-yt800ojn7",
+          "type": "attack",
+          "name": "Chém Mạnh",
+          "value": -20,
+          "description": "Gây 20 sát thương",
+          "color": "bg-orange-500",
+          "icon": "🔥",
+          "question": "Biển nào mặn nhất thế giới?",
+          "correctAnswer": "Biển Chết",
+          "options": [
+            "Biển Chết",
+            "Biển Đỏ",
+            "Biển Đen",
+            "Biển Đông"
+          ]
+        },
+        "timestamp": 1765523789533,
+        "effect": "Chém Mạnh: -20 HP (100 → 80)"
+      },
+      {
+        "playerId": "player-1765523670420-9ecjzdnvu",
+        "playerName": "Ttr",
+        "team": "red",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765523801825-2tncepm5d",
+          "type": "thunder",
+          "name": "Siêu Phép",
+          "value": -25,
+          "description": "Gây 25 sát thương",
+          "color": "bg-purple-500",
+          "icon": "⚡",
+          "question": "Nguyên tử số 1 là gì?",
+          "correctAnswer": "Hydro",
+          "options": [
+            "Hydro",
+            "Oxy",
+            "Nitơ",
+            "Carbon"
+          ]
+        },
+        "timestamp": 1765523813822,
+        "effect": "Siêu Phép: -25 HP (80 → 55)"
+      },
+      {
+        "playerId": "player-1765523670420-9ecjzdnvu",
+        "playerName": "Ttr",
+        "team": "red",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765523831124-oaguprvh0",
+          "type": "thunder",
+          "name": "Siêu Phép",
+          "value": -25,
+          "description": "Gây 25 sát thương",
+          "color": "bg-purple-500",
+          "icon": "⚡",
+          "question": "Nguyên tử số 1 là gì?",
+          "correctAnswer": "Hydro",
+          "options": [
+            "Hydro",
+            "Oxy",
+            "Nitơ",
+            "Carbon"
+          ]
+        },
+        "timestamp": 1765523837447,
+        "effect": "Siêu Phép: -25 HP (55 → 30)"
+      },
+      {
+        "playerId": "player-1765523670420-9ecjzdnvu",
+        "playerName": "Ttr",
+        "team": "red",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765523847919-7i0yk725p",
+          "type": "thunder",
+          "name": "Siêu Phép",
+          "value": -25,
+          "description": "Gây 25 sát thương",
+          "color": "bg-purple-500",
+          "icon": "⚡",
+          "question": "Vận tốc ánh sáng là bao nhiêu km/s?",
+          "correctAnswer": "300000",
+          "options": [
+            "100000",
+            "200000",
+            "300000",
+            "400000"
+          ]
+        },
+        "timestamp": 1765523865634,
+        "effect": "Siêu Phép: -25 HP (30 → 5)"
+      },
+      {
+        "playerId": "player-1765523670420-9ecjzdnvu",
+        "playerName": "Ttr",
+        "team": "red",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765523876054-blxpe0obh",
+          "type": "thunder",
+          "name": "Siêu Phép",
+          "value": -25,
+          "description": "Gây 25 sát thương",
+          "color": "bg-purple-500",
+          "icon": "⚡",
+          "question": "Nguyên tử số 1 là gì?",
+          "correctAnswer": "Hydro",
+          "options": [
+            "Hydro",
+            "Oxy",
+            "Nitơ",
+            "Carbon"
+          ]
+        },
+        "timestamp": 1765523880042,
+        "effect": "Siêu Phép: -25 HP (5 → 0)"
+      }
+    ]
+  },
+  {
+    "id": "game-1765524201711-w0bo1upbg",
+    "roomId": "room-1765524157040-vdlolm69n",
+    "players": [
+      {
+        "id": "player-1765524197839-xf7bty3qv",
+        "name": "Trung",
+        "team": "red",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765524197839-krqyamm4g",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Nước sôi ở nhiệt độ bao nhiêu độ C?",
+            "correctAnswer": "100",
+            "options": [
+              "50",
+              "75",
+              "100",
+              "150"
+            ]
+          },
+          {
+            "id": "card-1765524197839-uel5xau2z",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Biển Đông thuộc châu lục nào?",
+            "correctAnswer": "Châu Á",
+            "options": [
+              "Châu Á",
+              "Châu Âu",
+              "Châu Phi",
+              "Châu Mỹ"
+            ]
+          },
+          {
+            "id": "card-1765524197839-u4aesws6g",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Vận tốc ánh sáng là bao nhiêu km/s?",
+            "correctAnswer": "300000",
+            "options": [
+              "100000",
+              "200000",
+              "300000",
+              "400000"
+            ]
+          },
+          {
+            "id": "card-1765524197839-8v5opfsnx",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Năm 2025 trừ 1000 bằng bao nhiêu?",
+            "correctAnswer": "1025",
+            "options": [
+              "1025",
+              "1024",
+              "1026",
+              "1020"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": true
+      },
+      {
+        "id": "player-1765524201711-3uwtn3mxz",
+        "name": "Nam",
+        "team": "blue",
+        "health": 98,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765524201711-78hpz8l6x",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Thủ đô của Việt Nam là gì?",
+            "correctAnswer": "Hà Nội",
+            "options": [
+              "Hà Nội",
+              "Sài Gòn",
+              "Đà Nẵng",
+              "Huế"
+            ]
+          },
+          {
+            "id": "card-1765524201711-edfq3io2l",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Màu của lá cây là gì?",
+            "correctAnswer": "Xanh",
+            "options": [
+              "Xanh",
+              "Đỏ",
+              "Vàng",
+              "Tím"
+            ]
+          },
+          {
+            "id": "card-1765524201711-9024ww9f4",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Vitamin nào tốt cho mắt?",
+            "correctAnswer": "Vitamin A",
+            "options": [
+              "Vitamin A",
+              "Vitamin B",
+              "Vitamin C",
+              "Vitamin D"
+            ]
+          },
+          {
+            "id": "card-1765524201711-9juizvciw",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Nước sôi ở nhiệt độ bao nhiêu độ C?",
+            "correctAnswer": "100",
+            "options": [
+              "50",
+              "75",
+              "100",
+              "150"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": true
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 3,
+    "status": "active",
+    "winner": null,
+    "startTime": 1765524207342,
+    "endTime": null,
+    "history": [
+      {
+        "playerId": "player-1765524197839-xf7bty3qv",
+        "playerName": "Trung",
+        "team": "red",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765524197839-zsbp9oaju",
+          "type": "attack",
+          "name": "Chém Mạnh",
+          "value": -20,
+          "description": "Gây 20 sát thương",
+          "color": "bg-orange-500",
+          "icon": "🔥",
+          "question": "Kim loại nào nặng nhất?",
+          "correctAnswer": "Vàng",
+          "options": [
+            "Vàng",
+            "Sắt",
+            "Đồng",
+            "Bạc"
+          ]
+        },
+        "timestamp": 1765524223810,
+        "effect": "Chém Mạnh: -20 HP (100 → 80)"
+      },
+      {
+        "playerId": "player-1765524201711-3uwtn3mxz",
+        "playerName": "Nam",
+        "team": "blue",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765524201711-k2cwmsobf",
+          "type": "detox",
+          "name": "Giải Độc",
+          "value": 18,
+          "description": "Giải độc và hồi 18 HP",
+          "color": "bg-cyan-500",
+          "icon": "💧",
+          "question": "Cần ngủ bao nhiêu tiếng mỗi ngày?",
+          "correctAnswer": "8",
+          "options": [
+            "4",
+            "6",
+            "8",
+            "10"
+          ]
+        },
+        "timestamp": 1765524274050,
+        "effect": "Giải Độc: +18 HP (80 → 98)"
+      }
+    ]
+  },
+  {
+    "id": "game-1765526149645-vi99vcc3a",
+    "roomId": "room-1765526110717-j2o2xb4a7",
+    "players": [
+      {
+        "id": "player-1765526141912-pjfkxe5ly",
+        "name": "Tung",
+        "team": "red",
+        "health": 80,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765526141912-97csmys0v",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Vận tốc ánh sáng là bao nhiêu km/s?",
+            "correctAnswer": "300000",
+            "options": [
+              "100000",
+              "200000",
+              "300000",
+              "400000"
+            ]
+          },
+          {
+            "id": "card-1765526141912-ck0k5zwkn",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Rau củ nào giúp giải độc gan?",
+            "correctAnswer": "Rau diếp cá",
+            "options": [
+              "Rau diếp cá",
+              "Cải bắp",
+              "Rau muống",
+              "Rau dền"
+            ]
+          },
+          {
+            "id": "card-1765526141912-udspv7071",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Hành tinh nào lớn nhất?",
+            "correctAnswer": "Sao Mộc",
+            "options": [
+              "Sao Mộc",
+              "Sao Thổ",
+              "Trái Đất",
+              "Sao Hỏa"
+            ]
+          },
+          {
+            "id": "card-1765526141912-2140o7m9p",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Động vật nào nhanh nhất thế giới?",
+            "correctAnswer": "Báo gêpa",
+            "options": [
+              "Báo gêpa",
+              "Sư tử",
+              "Ngựa",
+              "Chim ưng"
+            ]
+          },
+          {
+            "id": "card-1765526141912-9iqp3ct9c",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Thủ đô của Việt Nam là gì?",
+            "correctAnswer": "Hà Nội",
+            "options": [
+              "Hà Nội",
+              "Sài Gòn",
+              "Đà Nẵng",
+              "Huế"
+            ]
+          },
+          {
+            "id": "card-1765526163075-psnwa8xhv",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "15 + 25 = ?",
+            "correctAnswer": "40",
+            "options": [
+              "35",
+              "40",
+              "45",
+              "50"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": true
+      },
+      {
+        "id": "player-1765526149645-pjsgmzurl",
+        "name": "Gu",
+        "team": "blue",
+        "health": 100,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765526149645-7769eqyak",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Động vật nào nhanh nhất thế giới?",
+            "correctAnswer": "Báo gêpa",
+            "options": [
+              "Báo gêpa",
+              "Sư tử",
+              "Ngựa",
+              "Chim ưng"
+            ]
+          },
+          {
+            "id": "card-1765526149645-l5jbvwcd1",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Hành tinh nào lớn nhất?",
+            "correctAnswer": "Sao Mộc",
+            "options": [
+              "Sao Mộc",
+              "Sao Thổ",
+              "Trái Đất",
+              "Sao Hỏa"
+            ]
+          },
+          {
+            "id": "card-1765526149645-jrbgwubci",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "2 + 2 = ?",
+            "correctAnswer": "4",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ]
+          },
+          {
+            "id": "card-1765526149645-picd6cuyz",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Vitamin nào tốt cho mắt?",
+            "correctAnswer": "Vitamin A",
+            "options": [
+              "Vitamin A",
+              "Vitamin B",
+              "Vitamin C",
+              "Vitamin D"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": true
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 3,
+    "status": "active",
+    "winner": null,
+    "startTime": 1765526154122,
+    "endTime": null,
+    "history": [
+      {
+        "playerId": "player-1765526149645-pjsgmzurl",
+        "playerName": "Gu",
+        "team": "blue",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765526149645-ucxsrl4qh",
+          "type": "attack",
+          "name": "Chém Mạnh",
+          "value": -20,
+          "description": "Gây 20 sát thương",
+          "color": "bg-orange-500",
+          "icon": "🔥",
+          "question": "5 x 7 = ?",
+          "correctAnswer": "35",
+          "options": [
+            "30",
+            "35",
+            "40",
+            "45"
+          ]
+        },
+        "timestamp": 1765526182569,
+        "effect": "Chém Mạnh: -20 HP (100 → 80)"
+      }
+    ]
+  },
+  {
+    "id": "game-1765528408919-1qcw71ti6",
+    "roomId": "room-1765528392738-y1rsrjddx",
+    "players": [
+      {
+        "id": "player-1765528406785-0hdwx5k5s",
+        "name": "ytb",
+        "team": "red",
+        "health": 90,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765528406788-xfk9efqwg",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Theo Mác-Lênin nguồn gốc của tôn giáo là gì?",
+            "correctAnswer": "Từ sự bất lực của con người trước tự nhiên và xã hội",
+            "options": [
+              "Từ thần linh",
+              "Từ sự bất lực của con người trước tự nhiên và xã hội",
+              "Do Đấng sáng tạo",
+              "Từ bản năng"
+            ]
+          },
+          {
+            "id": "card-1765528406788-m1pay44wb",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Mác nói tôn giáo là thuốc phiện của nhân dân có nghĩa gì?",
+            "correctAnswer": "Tôn giáo làm con người quên đi khổ đau hiện tại",
+            "options": [
+              "Tôn giáo là ma túy",
+              "Tôn giáo làm con người quên đi khổ đau hiện tại",
+              "Tôn giáo độc hại",
+              "Tôn giáo gây nghiện"
+            ]
+          },
+          {
+            "id": "card-1765528406789-lezzfnkgb",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Quyền tự do tín ngưỡng tôn giáo là quyền gì?",
+            "correctAnswer": "Quyền con người cơ bản",
+            "options": [
+              "Đặc quyền",
+              "Quyền con người cơ bản",
+              "Quyền hạn chế",
+              "Không phải quyền"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": true
+      },
+      {
+        "id": "player-1765528408915-5x9nqcro6",
+        "name": "fsf",
+        "team": "blue",
+        "health": 70,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765528408917-r664oxck9",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Quyền tự do tín ngưỡng tôn giáo là quyền gì?",
+            "correctAnswer": "Quyền con người cơ bản",
+            "options": [
+              "Đặc quyền",
+              "Quyền con người cơ bản",
+              "Quyền hạn chế",
+              "Không phải quyền"
+            ]
+          },
+          {
+            "id": "card-1765528408917-fth0rng8d",
+            "type": "attack",
+            "name": "Chém Mạnh",
+            "value": -20,
+            "description": "Gây 20 sát thương",
+            "color": "bg-orange-500",
+            "icon": "🔥",
+            "question": "Ăng-ghen chỉ ra điều gì về tôn giáo trong tương lai?",
+            "correctAnswer": "Sẽ tự biến mất khi xã hội phát triển",
+            "options": [
+              "Tồn tại mãi mãi",
+              "Sẽ tự biến mất khi xã hội phát triển",
+              "Phải cấm ngay",
+              "Không thể biến mất"
+            ]
+          },
+          {
+            "id": "card-1765528408918-uzsk3eeyq",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Hội đồng Trị sự Giáo hội Phật giáo Việt Nam thành lập năm nào?",
+            "correctAnswer": "1981",
+            "options": [
+              "1975",
+              "1981",
+              "1990",
+              "2000"
+            ]
+          },
+          {
+            "id": "card-1765528408919-xmxwf2yr6",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Giáo hội Tin Lành Việt Nam (Miền Nam) thành lập năm nào?",
+            "correctAnswer": "1963",
+            "options": [
+              "1950",
+              "1963",
+              "1975",
+              "1980"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": true
+      }
+    ],
+    "currentTurn": "blue",
+    "turnNumber": 8,
+    "status": "active",
+    "winner": null,
+    "startTime": 1765528413815,
+    "endTime": null,
+    "history": [
+      {
+        "playerId": "player-1765528408915-5x9nqcro6",
+        "playerName": "fsf",
+        "team": "blue",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765528408916-vq6w7zkcf",
+          "type": "attack",
+          "name": "Chém Mạnh",
+          "value": -20,
+          "description": "Gây 20 sát thương",
+          "color": "bg-orange-500",
+          "icon": "🔥",
+          "question": "Đảng ta xem xét vấn đề tôn giáo trên lập trường nào?",
+          "correctAnswer": "Lập trường giai cấp công nhân",
+          "options": [
+            "Lập trường tư sản",
+            "Lập trường giai cấp công nhân",
+            "Lập trường trung lập",
+            "Lập trường tôn giáo"
+          ]
+        },
+        "timestamp": 1765528446159,
+        "effect": "Chém Mạnh: -20 HP (100 → 80)"
+      },
+      {
+        "playerId": "player-1765528406785-0hdwx5k5s",
+        "playerName": "ytb",
+        "team": "red",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765528423568-06jzr6gd4",
+          "type": "attack",
+          "name": "Chém Mạnh",
+          "value": -20,
+          "description": "Gây 20 sát thương",
+          "color": "bg-orange-500",
+          "icon": "🔥",
+          "question": "Lê-nin chủ trương gì về tuyên truyền chống tôn giáo?",
+          "correctAnswer": "Phải khéo léo không làm tổn thương tín đồ",
+          "options": [
+            "Mạnh mẽ công kích",
+            "Phải khéo léo không làm tổn thương tín đồ",
+            "Không tuyên truyền",
+            "Cấm tuyên truyền"
+          ]
+        },
+        "timestamp": 1765528459241,
+        "effect": "Chém Mạnh: -20 HP (100 → 80)"
+      },
+      {
+        "playerId": "player-1765528406785-0hdwx5k5s",
+        "playerName": "ytb",
+        "team": "red",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765528406787-z3ckb3wvt",
+          "type": "thunder",
+          "name": "Siêu Phép",
+          "value": -25,
+          "description": "Gây 25 sát thương",
+          "color": "bg-purple-500",
+          "icon": "⚡",
+          "question": "Theo Mác tôn giáo là hình thức ý thức xã hội nào?",
+          "correctAnswer": "Ý thức xã hội duy tâm",
+          "options": [
+            "Ý thức xã hội duy vật",
+            "Ý thức xã hội duy tâm",
+            "Ý thức khoa học",
+            "Ý thức triết học"
+          ]
+        },
+        "timestamp": 1765528477679,
+        "effect": "Siêu Phép: -25 HP (80 → 55)"
+      },
+      {
+        "playerId": "player-1765528408915-5x9nqcro6",
+        "playerName": "fsf",
+        "team": "blue",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765528465773-0uua87e3b",
+          "type": "heal",
+          "name": "Hồi Máu",
+          "value": 15,
+          "description": "Hồi 15 HP",
+          "color": "bg-green-500",
+          "icon": "💚",
+          "question": "Ai là nhà truyền giáo Công giáo đầu tiên vào Việt Nam?",
+          "correctAnswer": "Linh mục Alexandre de Rhodes",
+          "options": [
+            "Linh mục Pigneau de Behaine",
+            "Linh mục Alexandre de Rhodes",
+            "Đức Giáo hoàng",
+            "Linh mục Taberd"
+          ]
+        },
+        "timestamp": 1765528486273,
+        "effect": "Hồi Máu: +15 HP (55 → 70)"
+      },
+      {
+        "playerId": "player-1765528406785-0hdwx5k5s",
+        "playerName": "ytb",
+        "team": "red",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765528406786-ffmzaulyc",
+          "type": "defense",
+          "name": "Phòng Thủ",
+          "value": 10,
+          "description": "Tăng 10 HP",
+          "color": "bg-blue-500",
+          "icon": "🛡️",
+          "question": "Đảng ta chủ trương đối với hoạt động tôn giáo như thế nào?",
+          "correctAnswer": "Bảo đảm quyền sinh hoạt tôn giáo hợp pháp",
+          "options": [
+            "Cấm hoạt động",
+            "Bảo đảm quyền sinh hoạt tôn giáo hợp pháp",
+            "Hạn chế mọi hoạt động",
+            "Kiểm soát chặt chẽ"
+          ]
+        },
+        "timestamp": 1765528687459,
+        "effect": "Phòng Thủ: +10 HP (80 → 90)"
+      }
+    ]
+  },
+  {
+    "id": "game-1765529997964-bpjz50b9j",
+    "roomId": "room-1765529981383-n44rrx5bg",
+    "players": [
+      {
+        "id": "player-1765529991089-aeiz1h2ib",
+        "name": "Khế",
+        "team": "red",
+        "health": 70,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765529991090-13nvcy6ju",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Đạo Hòa Hảo tu theo hình thức nào?",
+            "correctAnswer": "Tu tại gia",
+            "options": [
+              "Xuất gia",
+              "Tu tại gia",
+              "Vào chùa",
+              "Ẩn cư"
+            ]
+          },
+          {
+            "id": "card-1765529991091-lu8xmkp4h",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Giáo hội Tin Lành Việt Nam (Miền Bắc) thành lập năm nào?",
+            "correctAnswer": "1963",
+            "options": [
+              "1950",
+              "1963",
+              "1975",
+              "1980"
+            ]
+          },
+          {
+            "id": "card-1765529991092-7mqxw143h",
+            "type": "heal",
+            "name": "Hồi Máu",
+            "value": 15,
+            "description": "Hồi 15 HP",
+            "color": "bg-green-500",
+            "icon": "💚",
+            "question": "Mác nói tôn giáo là thuốc phiện của nhân dân có nghĩa gì?",
+            "correctAnswer": "Tôn giáo làm con người quên đi khổ đau hiện tại",
+            "options": [
+              "Tôn giáo là ma túy",
+              "Tôn giáo làm con người quên đi khổ đau hiện tại",
+              "Tôn giáo độc hại",
+              "Tôn giáo gây nghiện"
+            ]
+          },
+          {
+            "id": "card-1765530253753-0c99oiynt",
+            "type": "thunder",
+            "name": "Siêu Phép",
+            "value": -25,
+            "description": "Gây 25 sát thương",
+            "color": "bg-purple-500",
+            "icon": "⚡",
+            "question": "Đại hội Phật giáo toàn quốc lần thứ nhất họp năm nào?",
+            "correctAnswer": "1981",
+            "options": [
+              "1945",
+              "1975",
+              "1981",
+              "1990"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": true
+      },
+      {
+        "id": "player-1765529997961-tmw0okk4v",
+        "name": "Trài",
+        "team": "blue",
+        "health": 70,
+        "maxHealth": 100,
+        "cards": [
+          {
+            "id": "card-1765529997961-po8cvbtec",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Mác cho rằng tôn giáo tồn tại do nguyên nhân gì?",
+            "correctAnswer": "Nguyên nhân xã hội và nhận thức",
+            "options": [
+              "Do thần linh",
+              "Nguyên nhân xã hội và nhận thức",
+              "Do di truyền",
+              "Do bản năng"
+            ]
+          },
+          {
+            "id": "card-1765529997962-20zuqtorf",
+            "type": "defense",
+            "name": "Phòng Thủ",
+            "value": 10,
+            "description": "Tăng 10 HP",
+            "color": "bg-blue-500",
+            "icon": "🛡️",
+            "question": "Luật Tín ngưỡng Tôn giáo được Quốc hội thông qua năm nào?",
+            "correctAnswer": "2016",
+            "options": [
+              "2010",
+              "2013",
+              "2016",
+              "2020"
+            ]
+          },
+          {
+            "id": "card-1765529997963-gd11hvfsw",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Giáo hội Tin Lành Việt Nam (Miền Nam) thành lập năm nào?",
+            "correctAnswer": "1963",
+            "options": [
+              "1950",
+              "1963",
+              "1975",
+              "1980"
+            ]
+          },
+          {
+            "id": "card-1765530105309-g2u9dpp8f",
+            "type": "detox",
+            "name": "Giải Độc",
+            "value": 18,
+            "description": "Giải độc và hồi 18 HP",
+            "color": "bg-cyan-500",
+            "icon": "💧",
+            "question": "Tôn giáo nào có số tín đồ đông nhất Việt Nam?",
+            "correctAnswer": "Phật giáo",
+            "options": [
+              "Công giáo",
+              "Phật giáo",
+              "Tin Lành",
+              "Cao Đài"
+            ]
+          }
+        ],
+        "score": 0,
+        "ready": true
+      }
+    ],
+    "currentTurn": "red",
+    "turnNumber": 11,
+    "status": "active",
+    "winner": null,
+    "startTime": 1765530007214,
+    "endTime": null,
+    "history": [
+      {
+        "playerId": "player-1765529991089-aeiz1h2ib",
+        "playerName": "Khế",
+        "team": "red",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765529991091-jv2eklzqp",
+          "type": "thunder",
+          "name": "Siêu Phép",
+          "value": -25,
+          "description": "Gây 25 sát thương",
+          "color": "bg-purple-500",
+          "icon": "⚡",
+          "question": "Hồi giáo ở Việt Nam tập trung chủ yếu ở đâu?",
+          "correctAnswer": "Các tỉnh Đồng bằng sông Cửu Long và Bình Thuận Ninh Thuận",
+          "options": [
+            "Hà Nội",
+            "Các tỉnh Đồng bằng sông Cửu Long và Bình Thuận Ninh Thuận",
+            "Miền Trung",
+            "Tây Nguyên"
+          ]
+        },
+        "timestamp": 1765530036005,
+        "effect": "Siêu Phép: -25 HP (100 → 75)"
+      },
+      {
+        "playerId": "player-1765529997961-tmw0okk4v",
+        "playerName": "Trài",
+        "team": "blue",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765529997964-jn94du0x4",
+          "type": "heal",
+          "name": "Hồi Máu",
+          "value": 15,
+          "description": "Hồi 15 HP",
+          "color": "bg-green-500",
+          "icon": "💚",
+          "question": "Ai là Tổng Giám mục đầu tiên người Việt Nam?",
+          "correctAnswer": "Ngô Đình Thục",
+          "options": [
+            "Phaolô Nguyễn Bá Tòng",
+            "Ngô Đình Thục",
+            "Nguyễn Văn Thuận",
+            "Phạm Đình Tụng"
+          ]
+        },
+        "timestamp": 1765530051361,
+        "effect": "Hồi Máu: +15 HP (75 → 90)"
+      },
+      {
+        "playerId": "player-1765529997961-tmw0okk4v",
+        "playerName": "Trài",
+        "team": "blue",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765529997963-p6cszri4v",
+          "type": "thunder",
+          "name": "Siêu Phép",
+          "value": -25,
+          "description": "Gây 25 sát thương",
+          "color": "bg-purple-500",
+          "icon": "⚡",
+          "question": "Tin Lành truyền vào Việt Nam từ thế kỷ nào?",
+          "correctAnswer": "Thế kỷ XIX",
+          "options": [
+            "Thế kỷ XVI",
+            "Thế kỷ XVII",
+            "Thế kỷ XIX",
+            "Thế kỷ XX"
+          ]
+        },
+        "timestamp": 1765530079393,
+        "effect": "Siêu Phép: -25 HP (100 → 75)"
+      },
+      {
+        "playerId": "player-1765529991089-aeiz1h2ib",
+        "playerName": "Khế",
+        "team": "red",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765529991090-6xkzqvxsi",
+          "type": "heal",
+          "name": "Hồi Máu",
+          "value": 15,
+          "description": "Hồi 15 HP",
+          "color": "bg-green-500",
+          "icon": "💚",
+          "question": "Lễ Vu Lan là ngày mấy âm lịch?",
+          "correctAnswer": "15/7",
+          "options": [
+            "15/4",
+            "15/7",
+            "1/1",
+            "30/12"
+          ]
+        },
+        "timestamp": 1765530098049,
+        "effect": "Hồi Máu: +15 HP (75 → 90)"
+      },
+      {
+        "playerId": "player-1765529991089-aeiz1h2ib",
+        "playerName": "Khế",
+        "team": "red",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765530067259-46w3kq3eg",
+          "type": "attack",
+          "name": "Chém Mạnh",
+          "value": -20,
+          "description": "Gây 20 sát thương",
+          "color": "bg-orange-500",
+          "icon": "🔥",
+          "question": "Đặc điểm nào nổi bật của tôn giáo Việt Nam?",
+          "correctAnswer": "Gắn liền với dân tộc và lịch sử dân tộc",
+          "options": [
+            "Hoàn toàn ngoại lai",
+            "Gắn liền với dân tộc và lịch sử dân tộc",
+            "Không liên quan văn hóa",
+            "Chỉ ở thành thị"
+          ]
+        },
+        "timestamp": 1765530113768,
+        "effect": "Chém Mạnh: -20 HP (90 → 70)"
+      },
+      {
+        "playerId": "player-1765529997961-tmw0okk4v",
+        "playerName": "Trài",
+        "team": "blue",
+        "action": "play-card",
+        "card": {
+          "id": "card-1765530242869-82q5gy7ev",
+          "type": "attack",
+          "name": "Chém Mạnh",
+          "value": -20,
+          "description": "Gây 20 sát thương",
+          "color": "bg-orange-500",
+          "icon": "🔥",
+          "question": "Ăng-ghen chỉ ra điều gì về tôn giáo trong tương lai?",
+          "correctAnswer": "Sẽ tự biến mất khi xã hội phát triển",
+          "options": [
+            "Tồn tại mãi mãi",
+            "Sẽ tự biến mất khi xã hội phát triển",
+            "Phải cấm ngay",
+            "Không thể biến mất"
+          ]
+        },
+        "timestamp": 1765530268515,
+        "effect": "Chém Mạnh: -20 HP (90 → 70)"
+      }
+    ]
+  }
+]
